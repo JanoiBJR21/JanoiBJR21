@@ -35,9 +35,9 @@
                      :  Major of Computer Science
 
             CONTACT  :  
-              Email  : apichat26870@gmail.com
-                Tel  : (+66) 096-296-6382
-            Address  : 140, Soi Sihaburanukit 2,Road Sihaburanukit, Subdistrict Minburi, District Minburi, Bangkok 10510
+              Email  :  apichat26870@gmail.com
+                Tel  :  (+66) 096-296-6382
+            Address  :  140, Soi Sihaburanukit 2,Road Sihaburanukit, Subdistrict Minburi, District Minburi, Bangkok 10510
 
 ### :hammer_and_wrench: Languages and Tools :
 
