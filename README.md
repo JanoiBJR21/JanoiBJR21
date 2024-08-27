@@ -14,6 +14,9 @@
   <a href="https://x.com/JanoiBJR21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+<div id="account_counte" align="center">
   <img src="https://komarev.com/ghpvc/?username=JanoiBJR21&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
